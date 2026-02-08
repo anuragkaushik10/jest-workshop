@@ -1,0 +1,17 @@
+{
+  "name": "jest-workshop-starter",
+  "version": "1.0.0",
+  "description": "Standalone Jest workshop for NST ADYPU DevOps Course",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.4"
+  }
+}

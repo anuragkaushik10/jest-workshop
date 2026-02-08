@@ -1,0 +1,18 @@
+# Jest DevOps Workshop
+
+## Rules
+- Do not delete source files
+- Write tests only inside `tests/`
+- All tests must pass
+- Do not comment out failing tests
+
+## Tasks
+1. Write unit tests for math functions
+2.e Write validation tests for user age
+3. Write async tests for order procssing
+4. Mock email service and test signup
+5. Write API test for /health endpoint
+
+## Submission
+- Submit only the repository
+- Ensure `npm test` passes
