@@ -16,3 +16,12 @@
 ## Submission
 - Submit only the repository
 - Ensure `npm test` passes
+
+## Grading
+- Total marks: 20
+- Tests required:
+    - sync unit tests
+    - async tests
+    - mock test
+    - API test
+- Submission rule: CI must be green
